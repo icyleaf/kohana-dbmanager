@@ -2,7 +2,7 @@
 
 return array(
 	// Backup database data to file path. NEVER append "/" to the head of string.
-	'backup_filepath'		=> MODPATH.'dbmanager/backup-db',
+	'backup_filepath'		=> DOCROOT.'dump/backup-db',
 	// Maximal number of backup database. By default is 10, set `0` it is no Maximal absoluteness.
 	'backup_maximal'		=> 10,
 	// Automatic backup database period. Time unit is minites. By default is 5 days.
