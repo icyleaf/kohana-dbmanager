@@ -1,10 +1,10 @@
-# Alpaca
+# Database Manager For Kohana v3.0.x
 
 DBManager Module Inspired by WP-DBManager of Wordpress plugins.
 
  > Only support MySQL database currently.
 
-## Fetures
+## Features
 
 1. Show mysql version and database information
 2. List tables information from database in application
