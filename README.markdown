@@ -1,8 +1,10 @@
 # Database Manager For Kohana v3.0.x
 
+> Project is **NOT** maintain.
+
 DBManager Module Inspired by WP-DBManager of Wordpress plugins.
 
- > Only support MySQL database currently.
+**Only support MySQL database currently.**
 
 ## Features
 
